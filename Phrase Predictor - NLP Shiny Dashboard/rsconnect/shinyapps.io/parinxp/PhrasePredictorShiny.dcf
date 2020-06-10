@@ -1,0 +1,12 @@
+name: PhrasePredictorShiny
+title: PhrasePredictorShiny
+username:
+account: parinxp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2435085
+bundleId: 3250738
+url: https://parinxp.shinyapps.io/PhrasePredictorShiny/
+when: 1591774684.68692
+asMultiple: FALSE
+asStatic: FALSE
